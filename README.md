@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Ramos</h1>
 <h3 align="center">A Front End Developer with experience in React, JavaScript, TypeScript and Styled Components. I also have experience with UX and Agile Methodologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamos" alt="coderamos" /> </p>
-
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
 
 - 🌱 I’m currently studying **NextJS, Strapi and Tests**
