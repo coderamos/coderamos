@@ -1,5 +1,3 @@
-<h3>A Front End Developer with experience in React, JavaScript, TypeScript and Styled Components. I also have experience with UX and Agile Methodologies.</h3>
-
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
 
 - 🌱 I’m currently studying **NextJS, Strapi and Tests**
