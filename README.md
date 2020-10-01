@@ -9,5 +9,3 @@
 - 💬 Ask me about ReactJS, Strapi, Styled Components or about anything else
 
 - 📫 How to reach me https://www.linkedin.com/in/coderamos/
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderamos&show_icons=true" alt="coderamos" /></p>
