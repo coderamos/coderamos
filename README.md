@@ -4,3 +4,6 @@
 - 📝 I regulary write articles on [https://coderamos.netlify.app/](https://coderamos.netlify.app/)
 - 💬 Ask me about ReactJS, Strapi, Styled Components or about anything else
 - 📫 How to reach me https://www.linkedin.com/in/coderamos/
+
+- 👀 See other projects: https://yellowspacestone.netlify.app/ and https://yellow-design-system.netlify.app/
+ 
