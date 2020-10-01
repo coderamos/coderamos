@@ -5,5 +5,5 @@
 - 💬 Ask me about ReactJS, Strapi, Styled Components or about anything else
 - 📫 How to reach me https://www.linkedin.com/in/coderamos/
 
-- 👀 See other projects: https://yellowspacestone.netlify.app/ and https://yellow-design-system.netlify.app/
+- 👀 See other projects in development: https://yellowspacestone.netlify.app/ and https://yellow-design-system.netlify.app/
  
