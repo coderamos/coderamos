@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🧔🏾
 
 I'm Diego Ramos, and I am a Front End Developer with experience in JavaScript, ReactJS, NextJS, UX and UI.
 
