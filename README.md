@@ -6,7 +6,7 @@ I'm Diego Ramos, and I am a Front End Developer with experience in JavaScript, R
 [![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=https://coderamos.netlify.app/)](https://coderamos.netlify.app/)
 [![GitHub followers](https://img.shields.io/github/followers/coderamos.svg?style=social&label=follow&maxAge=2592000)](https://github.com/coderamos?tab=followers)
 
-![coderamos github stats](https://github-readme-stats.vercel.app/api?username=coderamos&show_icons=true&title_color=FFCB00&icon_color=FFCB00&text_color=FFFFFF&bg_color=171717)
+![coderamos github stats](https://github-readme-stats.vercel.app/api?username=coderamos&count_private=true&hide=issues,contribs&show_icons=true&title_color=FFCB00&icon_color=FFCB00&text_color=FFFFFF&bg_color=171717)
 
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
 - 🌱 I’m currently studying NextJS, Strapi and Tests
