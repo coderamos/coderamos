@@ -11,4 +11,4 @@ I'm Diego Ramos, and I am a Front End Developer with experience in JavaScript, R
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
 - 🌱 I’m currently studying NextJS, Strapi and Tests
 - 📝 I regulary write articles on [https://coderamos.netlify.app/](https://coderamos.netlify.app/)
-- 👀 See other projects in development: [https://yellowspacestone.netlify.app/](https://yellowspacestone.netlify.app/) and [https://yellow-design-system.netlify.app/](https://yellow-design-system.netlify.app/)
+- 👀 See other projects in development: [https://yellowspacestone.netlify.app/](https://yellowspacestone.netlify.app/) and [https://ylw-games-design-system.netlify.app/](https://ylw-games-design-system.netlify.app/)
