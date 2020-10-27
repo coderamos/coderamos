@@ -8,7 +8,7 @@ I'm Diego Ramos, and I am a Front End Developer with experience in JavaScript, R
 
 ![coderamos github stats](https://github-readme-stats.vercel.app/api?username=coderamos&count_private=true&hide=issues,contribs&show_icons=true&title_color=FFCB00&icon_color=FFCB00&text_color=FFFFFF&bg_color=171717)
 
-- 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
+- 🔭 I’m currently working on [Yellow Space Stone](https://www.linkedin.com/company/yellowspacestone/)
 - 🌱 I’m currently studying NextJS, Strapi and Tests
 - 📝 I regulary write articles on [https://coderamos.netlify.app/](https://coderamos.netlify.app/)
 - 👀 See other projects in development: [https://yellowspacestone.netlify.app/](https://yellowspacestone.netlify.app/) and [https://ylw-games-design-system.netlify.app/](https://ylw-games-design-system.netlify.app/)
