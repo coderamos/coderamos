@@ -10,4 +10,4 @@ I'm Diego Ramos, and I am a Front End Developer with experience in JavaScript, R
 
 - 🔭 I’m currently working on [Yellow Space Stone](https://www.linkedin.com/company/yellowspacestone/)
 - 🌱 I’m currently studying NextJS, Strapi and Tests
-- 📝 I regulary write articles on [https://coderamos.netlify.app/](https://coderamos.netlify.app/)
+- 📝 I regulary write articles on [https://coderamos.vercel.app/](https://coderamos.vercel.app/)
